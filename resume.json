@@ -1,0 +1,135 @@
+{
+    "selectedTemplate": 6,
+    "basics": {
+      "email": "nwang28@ucmerced.edu",
+      "name": "Noelle Wang",
+      "website": "pastelpink.dev",
+      "phone": "(XXX) XXX-XXXX",
+      "github": "No767",
+      "linkedin": "linkedin.com/in/xxx",
+      "location": {
+        "city": "Merced",
+        "region": "CA",
+        "countryCode": "US"
+      }
+    },
+    "education": [
+      {
+        "institution": "University of California, Merced",
+        "location": "Merced, CA",
+        "studyType": "Bachelors of Science",
+        "area": "Computer Science",
+        "startDate": "Aug 2023",
+        "endDate": "May 2027"
+      }
+    ],
+    "work": [
+      {
+        "highlights": [
+          "Advised an team of 10+ high school students on the development of efficient and reliable software for an high scoring robot.",
+          "Mentored and reviewed the development of the new robot's codebase."
+        ],
+        "company": "Team 5507 - Robotic Eagles",
+        "position": "Software Mentor",
+        "location": "San Francisco, CA / Remote",
+        "startDate": "January 2024",
+        "endDate": "Present"
+      },
+      {
+        "highlights": [
+          "Rewrote and modernized an modern, scalable website using React and Firebase to reconcile deprecated codebase.",
+          "Managed and mentored a team of 2-5 developers, ensuring the project was completed on time and within budget.",
+          "Constructed improved internal workflows for administrative duties, resulting in stable and refined processes."
+        ],
+        "company": "ACM at UC Merced",
+        "position": "Webmaster",
+        "location": "Merced, CA",
+        "startDate": "Sept 2023",
+        "endDate": "Present"
+      },
+      {
+        "highlights": [
+          "Engineered and manufactured an high scoring robot for the 2022-2023 season within 3 months, leading to 1st place rankings at regional competitions.",
+          "Closely worked with mechanical, electrical, software teams and mentors to ensure the robot was engineered for competitions.",
+          "Developed bleeding edge manufacturing processes, resulting in a 20 percent reduction in production time and 15 percent increase in fortitude."
+        ],
+        "company": "Team 5507 - Robotic Eagles",
+        "position": "Hardware Lead",
+        "location": "San Francisco, CA",
+        "startDate": "Sept 2021",
+        "endDate": "June 2023"
+      }
+    ],
+    "skills": [
+      {
+        "level": "",
+        "keywords": [
+          "Python, JavaScript, TypeScript, Java, C++, SQL, HTML, CSS"
+        ],
+        "name": "Languages"
+      },
+      {
+        "keywords": [
+          "Linux, Git, Docker, PostgreSQL, SQLite, Redis, MongoDB, CI/CD, Grafana, Prometheus, RabbitMQ, gRPC, React, FastAPI"
+        ],
+        "name": "Technologies"
+      }
+    ],
+    "projects": [
+      {
+        "description": "An modern shared moderation inbox application for an community of over 1,000 users",
+        "keywords": [
+          "Python",
+          "PostgreSQL",
+          "Linux"
+        ],
+        "name": "Rodhaj",
+        "website": "https://github.com/transprogrammer/rodhaj"
+      },
+      {
+        "keywords": [
+          "Python"
+        ],
+        "name": "Kumiko",
+        "description": "Personal multipurpose bot for Discord with over 11,000 lines of code",
+        "website": "https://github.com/No767/Kumiko"
+      },
+      {
+        "keywords": [
+          "Python",
+          "FastAPI",
+          "OpenAPI",
+          "SQLite",
+          "Flutter"
+        ],
+        "name": "Phoebe",
+        "website": "https://devpost.com/software/phoebe-izav85",
+        "description": "Mobile platform that connects the LGBTQ+ community with safe havens while fostering support and solidarity."
+      }
+    ],
+    "awards": [
+      {
+        "summary": "Won the Best Use of CockroachDB with LifeLineAid: a mobile app that is an beacon of hope for refugees in conflict zones.",
+        "title": "Cal Hacks Winner",
+        "date": "October 2023"
+      },
+      {
+        "summary": "Won the Most Impactful category with Phoebe: a platform connects the LGBTQ+ community with safe havens while fostering support and solidarity.",
+        "title": "QWER Hacks Winner",
+        "date": "February 2024"
+      }
+    ],
+    "leadership": [
+
+    ],
+    "sections": [
+      "templates",
+      "profile",
+      "education",
+      "work",
+      "skills",
+      "projects",
+      "awards",
+      "leadership"
+    ]
+}
