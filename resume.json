@@ -6,7 +6,7 @@
       "website": "pastelpink.dev",
       "phone": "(XXX) XXX-XXXX",
       "github": "No767",
-      "linkedin": "linkedin.com/in/xxx",
+      "linkedin": "https://www.linkedin.com/in/noelle-wang-61614b253/",
       "location": {
         "city": "Merced",
         "region": "CA",
@@ -64,13 +64,26 @@
       {
         "level": "",
         "keywords": [
-          "Python, JavaScript, TypeScript, Java, C++, SQL, HTML, CSS"
+            "Python",
+            "JavaScript",
+            "TypeScript",
+            "Java",
+            "C++",
+            "SQL",
+            "HTML",
+            "CSS",
+            "Bash"
         ],
         "name": "Languages"
       },
       {
         "keywords": [
-          "Linux, Git, Docker, PostgreSQL, SQLite, Redis, MongoDB, CI/CD, Grafana, Prometheus, RabbitMQ, gRPC, React, FastAPI"
+            "PostgreSQL",
+            "SQLite",
+            "Redis",
+            "MongoDB",
+            "Prometheus",
+            "Grafana"
         ],
         "name": "Technologies"
       }
@@ -119,9 +132,6 @@
         "date": "February 2024"
       }
     ],
-    "leadership": [
-
-    ],
     "sections": [
       "templates",
       "profile",
@@ -129,7 +139,6 @@
       "work",
       "skills",
       "projects",
-      "awards",
-      "leadership"
+      "awards"
     ]
 }

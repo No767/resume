@@ -181,19 +181,6 @@
   \resumeSubHeadingListEnd
 
 
-\section{LEADERSHIP}
-  \resumeSubHeadingListStart
-    \item
-      \begin{tabular*}{0.965\textwidth}[t]{l @{ \ } l @{\extracolsep{\fill}} r}
-        <range .leadership>
-        \vspace{2pt}
-        \textbf{<.company>} & {| \ \textit{<.position>}} &
-        \small{<.startDate><if (has . "endDate")> - <.endDate><end>} \\
-        <end>
-      \end{tabular*}
-  \resumeSubHeadingListEnd
-
-
 \section{PROJECTS}
   \resumeSubHeadingListStart
     <range .projects>
@@ -220,7 +207,7 @@
     \begin{tabular*}{0.965\textwidth}[t]{l@{ \ }l}
       <range .skills>
       \vspace{2pt}
-      \small{\textbf{<.name>}:} & \small{<conv.Join .keywords "">} \\
+      \small{\textbf{<.name>}:} & \small{<conv.Join .keywords ", ">} \\
       <end>
     \end{tabular*}
   \resumeSubHeadingListEnd
