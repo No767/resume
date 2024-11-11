@@ -24,6 +24,29 @@
       }
     ],
     "work": [
+    {
+        "highlights": [
+          "Established vastly improved processes and documentation to reconcile immobilized community projects.",
+          "Supervised management and resources of projects, ensuring completion of projects on schedule and within budget."
+        ],
+        "company": "ACM at UC Merced",
+        "position": "Project Manager",
+        "location": "Merced, CA",
+        "startDate": "Sept 2024",
+        "endDate": "Present"
+      },
+    {
+        "highlights": [
+          "Developed and coordinated interactive STEM curriculums integrating AgTech concepts for K-12 students within Merced County.",
+          "Fabricated foundational frameworks and standard-based recommendations for creating curriculums.",
+          "Assisted in various CITRIS educational efforts and team members as necessary."
+        ],
+        "company": "CITRIS and the Banatao Institute at UC Merced",
+        "position": "Educational Intern",
+        "location": "Merced, CA",
+        "startDate": "May 2024",
+        "endDate": "Present"
+      },
       {
         "highlights": [
           "Advised an team of 10+ high school students on the development of efficient and reliable software for an high scoring robot.",
@@ -37,8 +60,8 @@
       },
       {
         "highlights": [
-          "Rewrote and modernized an modern, scalable website using React and Firebase to reconcile deprecated codebase.",
-          "Managed and mentored a team of 2-5 developers, ensuring the project was completed on time and within budget.",
+          "Rewrote and modernized an modern, scalable website using React and FastAPI to reconcile deprecated codebase.",
+          "Managed and mentored a team of 5-15 developers, ensuring the project was completed on time and within budget.",
           "Constructed improved internal workflows for administrative duties, resulting in stable and refined processes."
         ],
         "company": "ACM at UC Merced",
