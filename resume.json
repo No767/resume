@@ -101,11 +101,14 @@
       },
       {
         "keywords": [
-          "Python"
+          "Python",
+          "FastAPI",
+          "PostgreSQL",
+          "Redis"
         ],
-        "name": "Kumiko",
-        "description": "Personal multipurpose bot for Discord with over 11,000 lines of code",
-        "website": "https://github.com/No767/Kumiko"
+        "name": "Kanae",
+        "description": "Monolithic backend web server for ACM at UC Merced with automatic deployments that vastly accelerated development speeds.",
+        "website": "https://github.com/UCMercedACM/kanae"
       },
       {
         "keywords": [
