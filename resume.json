@@ -6,7 +6,7 @@
       "website": "pastelpink.dev",
       "phone": "(XXX) XXX-XXXX",
       "github": "No767",
-      "linkedin": "https://www.linkedin.com/in/noelle-wang-61614b253/",
+      "linkedin": "noelle-wang-61614b253",
       "location": {
         "city": "Merced",
         "region": "CA",
@@ -109,7 +109,7 @@
           "Linux"
         ],
         "name": "Rodhaj",
-        "website": "https://github.com/transprogrammer/rodhaj"
+        "website": "github.com/transprogrammer/rodhaj"
       },
       {
         "keywords": [
@@ -120,7 +120,7 @@
         ],
         "name": "Kanae",
         "description": "Monolithic backend web server for ACM at UC Merced with automatic deployments that vastly accelerated development speeds.",
-        "website": "https://github.com/UCMercedACM/kanae"
+        "website": "github.com/UCMercedACM/kanae"
       },
       {
         "keywords": [
@@ -131,7 +131,7 @@
           "Flutter"
         ],
         "name": "Phoebe",
-        "website": "https://devpost.com/software/phoebe-izav85",
+        "website": "devpost.com/software/phoebe-izav85",
         "description": "Mobile platform that connects the LGBTQ+ community with safe havens while fostering support and solidarity."
       }
     ],
