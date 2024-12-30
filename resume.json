@@ -3,8 +3,6 @@
     "basics": {
       "email": "nwang28@ucmerced.edu",
       "name": "Noelle Wang",
-      "website": "pastelpink.dev",
-      "phone": "(XXX) XXX-XXXX",
       "github": "No767",
       "linkedin": "noelle-wang-61614b253",
       "location": {
@@ -72,34 +70,6 @@
         "endDate": "June 2023"
       }
     ],
-    "skills": [
-      {
-        "level": "",
-        "keywords": [
-            "Python",
-            "JavaScript",
-            "TypeScript",
-            "Java",
-            "C++",
-            "SQL",
-            "HTML",
-            "CSS",
-            "Bash"
-        ],
-        "name": "Languages"
-      },
-      {
-        "keywords": [
-            "PostgreSQL",
-            "SQLite",
-            "Redis",
-            "MongoDB",
-            "Prometheus",
-            "Grafana"
-        ],
-        "name": "Technologies"
-      }
-    ],
     "projects": [
       {
         "description": "An modern shared moderation inbox application for an community of over 1,000 users",
@@ -135,6 +105,51 @@
         "description": "Mobile platform that connects the LGBTQ+ community with safe havens while fostering support and solidarity."
       }
     ],
+    "leadership": [
+      {
+        "company": "Association for Computing Machinery at UCM",
+        "position": "Project Manager",
+        "startDate": "Sept 2024",
+        "endDate": "Present"
+      }
+    ],
+    "skills": [
+      {
+        "keywords": [
+            "Python",
+            "JavaScript",
+            "TypeScript",
+            "Java",
+            "C++",
+            "SQL",
+            "HTML",
+            "CSS",
+            "Bash"
+        ],
+        "name": "Languages"
+      },
+      {
+        "keywords": [
+            "PostgreSQL",
+            "SQLite",
+            "MariaDB",
+            "Redis",
+            "MongoDB"
+        ],
+        "name": "Databases"
+      },
+      {
+        "keywords": [
+          "Cloud-init",
+          "GitHub Actions",
+          "GitLab CI",
+          "Grafana",
+          "Prometheus"
+        ],
+        "name": "Cloud/Infra"
+      }
+  
+    ],
     "awards": [
       {
         "summary": "Won the Best Use of CockroachDB with LifeLineAid: a mobile app that is an beacon of hope for refugees in conflict zones.",
@@ -152,8 +167,8 @@
       "profile",
       "education",
       "work",
-      "skills",
+      "leadership",
       "projects",
-      "awards"
+      "skills"
     ]
 }
