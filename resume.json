@@ -19,6 +19,13 @@
         "area": "Computer Science",
         "startDate": "Aug 2023",
         "endDate": "May 2027"
+      },
+      {"institution": "Meiji Gakuin University",
+       "location": "Yokohama, Japan",
+      "studyType": "International Studies",
+      "area": "Economics and Sociology",
+      "startDate": "May 2025",
+      "endDate": "Present"
       }
     ],
     "work": [
@@ -32,7 +39,7 @@
         "position": "Educational Intern",
         "location": "Merced, CA",
         "startDate": "May 2024",
-        "endDate": "Present"
+        "endDate": "April 2025"
       },
       {
         "highlights": [
