@@ -20,15 +20,28 @@
         "startDate": "Aug 2023",
         "endDate": "May 2027"
       },
-      {"institution": "Meiji Gakuin University",
-       "location": "Yokohama, Japan",
-      "studyType": "International Studies",
-      "area": "Economics and Sociology",
-      "startDate": "May 2025",
-      "endDate": "Present"
+      {
+        "institution": "Meiji Gakuin University",
+        "location": "Yokohama, Japan",
+        "studyType": "International Studies",
+        "area": "Economics and Sociology",
+        "startDate": "May 2025",
+        "endDate": "Present"
       }
     ],
     "work": [
+      {
+        "highlights": [
+          "Independently intercepted ACM at UC Merced from multiple near-permanent closures since August 2024",
+          "Recovered 98 percent of previously lost access to critical infrastructure and documents within a span of ~8 months",
+          "Spearheaded all operations, ranging from coordination between SIG Leads, outreach efforts, and supervision between executive leadership"
+        ],
+        "company": "ACM at UC Merced",
+        "position": "Administrative Assistant",
+        "location": "Merced, CA",
+        "startDate": "August 2024",
+        "endDate": "Present"
+      },
     {
         "highlights": [
           "Developed and coordinated interactive STEM curriculums integrating AgTech concepts for K-12 students within Merced County.",
