@@ -1,0 +1,11 @@
+[tools]
+"github:AGWA/git-crypt" = "latest"
+"github:tectonic-typesetting/tectonic" = "tectonic@0.15.0"
+
+gomplate = "latest"
+jq = "latest"
+
+[settings]
+experimental = true
+pin = true
+
