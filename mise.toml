@@ -1,0 +1,34 @@
+[tools]
+"github:AGWA/git-crypt" = "latest"
+"github:tectonic-typesetting/tectonic" = "tectonic@0.15.0"
+
+gomplate = "latest"
+jq = "latest"
+
+shellcheck = "0.11.0"
+shfmt = "3.12.0"
+
+[settings]
+experimental = true
+pin = true
+
+[tasks."generate"]
+alias = ["create", "gen"]
+description = "Generates resume pdf, alongside with a secret version of the resume if available"
+dir = "{{ config_root }}"
+run = "./generate.sh"
+
+[tasks."lint"]
+description = "Runs shellcheck for linting purposes"
+dir = "{{ config_root }}"
+run = "shellcheck generate.sh"
+
+[tasks."format"]
+description = "Formats bash code up to google standard using shfmt"
+dir = "{{ config_root }}"
+run = "shfmt -i 4 -w -ci generate.sh"
+
+[tasks."check"]
+description = "Checks code"
+dir = "{{ config_root }}"
+run = [{ task = "lint" }, { task = "format" }]
