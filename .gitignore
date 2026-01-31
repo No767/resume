@@ -8,3 +8,6 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# Private resume for personal distribution
+resume.secret.pdf
